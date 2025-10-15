@@ -1,10 +1,10 @@
 ---
-title: DFS Practice
+title: Search Algorithm
 published: 2025-10-14
-description: 'DFS—深度优先搜索算法题目汇总'
+description: '搜索算法题目汇总'
 image: ''
 tags: [DFS,剪枝]
-category: 'Algorithm'
+category: 'Practice'
 draft: false 
 lang: ''
 ---
