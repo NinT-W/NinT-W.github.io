@@ -4,7 +4,7 @@ published: 2025-10-15
 description: '数论理论知识与模版'
 image: ''
 tags: [质数筛法]
-category: 'Template'
+category: 'ACM Template'
 draft: false 
 lang: ''
 ---

@@ -4,7 +4,7 @@ published: 2025-10-14
 description: '搜索算法题目汇总'
 image: ''
 tags: [DFS,剪枝]
-category: 'Practice'
+category: 'ACM Practice'
 draft: false 
 lang: ''
 ---
