@@ -1,5 +1,5 @@
 ---
-title: Search Algorithm
+title: Search Algorithm Practice
 published: 2025-10-14
 description: '搜索算法题目汇总'
 image: ''

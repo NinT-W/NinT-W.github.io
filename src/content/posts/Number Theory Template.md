@@ -1,5 +1,5 @@
 ---
-title: Number Theory
+title: Number Theory Template
 published: 2025-10-15
 description: '数论理论知识与模版'
 image: ''
