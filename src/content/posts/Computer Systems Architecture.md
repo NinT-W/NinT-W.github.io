@@ -4,7 +4,7 @@ published: 2025-10-17
 description: 'University of Leeds: Computer System & Architecture'
 image: ''
 tags: []
-category: 'UoL Concept'
+category: 'UoL Course'
 draft: false 
 lang: ''
 ---
